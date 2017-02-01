@@ -1,0 +1,44 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+ul {
+	padding: 0px;
+    list-style: disc;
+    padding-left: 15px;
+    font-size: 0.9em;
+}
+
+img {
+    border-radius: 50%;
+    border: 3px solid #e2e2e2;
+    margin: 15px 0px;
+}
+
+ul li {
+	line-height: 28px;
+}
+
+.login-btn {
+	background-color: #3B5998;
+    color: #FFF;
+    text-decoration: none;
+    padding: 9px 30px;
+    margin-top: 5px;
+    display: inline-block;
+    margin-left: 3px;
+    border-radius: 9px;
+    font-weight: bold;
+}
+
+.login-btn:hover {
+	background-color:#476cb9; 
+}
+
+.fa-check {
+	color:#39b711;
+}
+
+.fa-facebook {
+	padding-right:3px;
+}
